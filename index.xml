@@ -5,12 +5,29 @@
     <link>https://muzammilaz.github.io/</link>
       <atom:link href="https://muzammilaz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Muzammil Aziz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Oct 2020 16:00:00 +0500</lastBuildDate>
     <image>
       <url>https://muzammilaz.github.io/img/avatar.jpg</url>
       <title>M. Muzammil Aziz</title>
       <link>https://muzammilaz.github.io/</link>
     </image>
+    
+    <item>
+      <title>Machine Learning (An Overview of Appications, Theory, and Research)</title>
+      <link>https://muzammilaz.github.io/talk/machine-learning-an-overview-of-appications-theory-and-research/</link>
+      <pubDate>Wed, 28 Oct 2020 16:00:00 +0500</pubDate>
+      <guid>https://muzammilaz.github.io/talk/machine-learning-an-overview-of-appications-theory-and-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons From iMLCV Tutorial at CVPR 2020</title>
+      <link>https://muzammilaz.github.io/post/lessons-from-imlcv-tutorial-at-cvpr-2020/</link>
+      <pubDate>Mon, 13 Jul 2020 19:40:25 +0500</pubDate>
+      <guid>https://muzammilaz.github.io/post/lessons-from-imlcv-tutorial-at-cvpr-2020/</guid>
+      <description>&lt;p&gt;Among this year&amp;rsquo;s tutorials at CVPR, Interpretable Machine Learning and Computer Vision was one of my favorite ones. The tutorial was about 2 hours and 45 minutes long, and was conducted by 4 amazing researchers. In this post I will try to summarize the key lessons in those lectures and will give a brief overview of the field in interpretable machine learning and explainable artificial intelligence (XAI).&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
