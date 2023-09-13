@@ -37,7 +37,7 @@
       <link>/project/shape_transformers/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/project/shape_transformers/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/1811.12231&#34; title=&#34;Shape vs. Texture in CNNs&#34;&gt;Geirhos et al. 2018&lt;/a&gt; showed that Convolutional Neural Networks (CNNs) trained on ImageNet are biased towards texture while humans are biased towards shape for a classification task. They further showed that training the same CNN on Stylized-ImageNet increases the model&amp;rsquo;s shape bias. We extend the work by showing that the shape bias increases further for Vision Transformer models (DeIT) and helps in closing the gap further to human performance on shape related tasks (eg. Shape-Texture cue conflict test set).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;b&gt;Advisors&lt;/b&gt;: &lt;a href=&#34;https://anki.xyz/&#34;&gt;Andreas Kist&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://eggerbernhard.ch/&#34;&gt;Bernhard Egger&lt;/a&gt;&lt;br/&gt; For the course &lt;em&gt;Computational Visual Perception&lt;/em&gt; &lt;br/&gt;&lt;br/&gt; &lt;a href=&#34;https://arxiv.org/abs/1811.12231&#34; title=&#34;Shape vs. Texture in CNNs&#34;&gt;Geirhos et al. 2018&lt;/a&gt; showed that Convolutional Neural Networks (CNNs) trained on ImageNet are biased towards texture while humans are biased towards shape for a classification task. They further showed that training the same CNN on Stylized-ImageNet increases the model&amp;rsquo;s shape bias. We extend the work by showing that the shape bias increases further for Vision Transformer models (DeIT) and helps in closing the gap further to human performance on shape related tasks (eg. Shape-Texture cue conflict test set).&lt;/p&gt;
 </description>
     </item>
     
@@ -225,7 +225,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-954618237&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-924876153&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -235,7 +235,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-954618237&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-924876153&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
