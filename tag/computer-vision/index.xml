@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer Vision | Muhammad Muzammil</title>
-    <link>muzammilaz.github.io/tag/computer-vision/</link>
-      <atom:link href="muzammilaz.github.io/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/computer-vision/</link>
+      <atom:link href="/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Vision</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/muzammilaz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Computer Vision</title>
-      <link>muzammilaz.github.io/tag/computer-vision/</link>
+      <link>/tag/computer-vision/</link>
     </image>
     
     <item>
       <title>Exploring Shape vs Texture Bias in Visual Transformers</title>
-      <link>muzammilaz.github.io/project/shape_transformers/</link>
+      <link>/project/shape_transformers/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>muzammilaz.github.io/project/shape_transformers/</guid>
+      <guid>/project/shape_transformers/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/1811.12231&#34; title=&#34;Shape vs. Texture in CNNs&#34;&gt;Geirhos et al. 2018&lt;/a&gt; showed that Convolutional Neural Networks (CNNs) trained on ImageNet are biased towards texture while humans are biased towards shape for a classification task. They further showed that training the same CNN on Stylized-ImageNet increases the model&amp;rsquo;s shape bias. We extend the work by showing that the shape bias increases further for Vision Transformer models (DeIT) and helps in closing the gap further to human performance on shape related tasks (eg. Shape-Texture cue conflict test set).&lt;/p&gt;
 </description>
     </item>
