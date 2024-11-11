@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computer Vision | Muhammad Muzammil</title>
-    <link>/tag/computer-vision/</link>
-      <atom:link href="/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
-    <description>Computer Vision</description>
+    <title>LiDAR | Muhammad Muzammil</title>
+    <link>/tag/lidar/</link>
+      <atom:link href="/tag/lidar/index.xml" rel="self" type="application/rss+xml" />
+    <description>LiDAR</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Computer Vision</title>
-      <link>/tag/computer-vision/</link>
+      <title>LiDAR</title>
+      <link>/tag/lidar/</link>
     </image>
     
     <item>
@@ -19,15 +19,6 @@
       <guid>/project/lidar_nvs_pix2pix/</guid>
       <description>&lt;p&gt;&lt;b&gt;Advisors&lt;/b&gt;: &lt;a href=&#34;https://www.lgdv.tf.fau.de/person/richard-marcus/&#34;&gt;Richard Marcus&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.lgdv.tf.fau.de/person/marc-stamminger/&#34;&gt;Marc Stamminger&lt;/a&gt;&lt;br/&gt; In this project, we trained Image translation model &lt;a href=&#34;https://github.com/NVlabs/SPADE/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPADE&lt;/a&gt; to generate LiDAR intensities in camera perspective conditioned on the RGB image from the camera. We utilize KITTI and KITTI-360 datasets for training the models.&lt;/p&gt;
 &lt;p&gt;We utilize &lt;a href=&#34;https://github.com/ispc-lab/LiDAR4D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LiDAR4D&lt;/a&gt;, a recent approach to LiDAR Novel View Synthesis, to generate dense LiDAR point cloud and use the projected intensities to train Image-to-Image translation models.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Exploring Shape vs Texture Bias in Visual Transformers</title>
-      <link>/project/shape_transformers/</link>
-      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/shape_transformers/</guid>
-      <description>&lt;p&gt;&lt;b&gt;Advisors&lt;/b&gt;: &lt;a href=&#34;https://anki.xyz/&#34;&gt;Andreas Kist&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://eggerbernhard.ch/&#34;&gt;Bernhard Egger&lt;/a&gt;&lt;br/&gt; For the course &lt;em&gt;Computational Visual Perception&lt;/em&gt; &lt;br/&gt;&lt;br/&gt; &lt;a href=&#34;https://arxiv.org/abs/1811.12231&#34; title=&#34;Shape vs. Texture in CNNs&#34;&gt;Geirhos et al. 2018&lt;/a&gt; showed that Convolutional Neural Networks (CNNs) trained on ImageNet are biased towards texture while humans are biased towards shape for a classification task. They further showed that training the same CNN on Stylized-ImageNet increases the model&amp;rsquo;s shape bias. We extend the work by showing that the shape bias increases further for Vision Transformer models (DeIT) and helps in closing the gap further to human performance on shape related tasks (eg. Shape-Texture cue conflict test set).&lt;/p&gt;
 </description>
     </item>
     

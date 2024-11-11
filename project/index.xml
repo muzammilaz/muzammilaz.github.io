@@ -5,12 +5,22 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Synthesizing LiDAR from RGB Image using generated dense LiDAR data from LiDAR Novel View Synthesis</title>
+      <link>/project/lidar_nvs_pix2pix/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/project/lidar_nvs_pix2pix/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Advisors&lt;/b&gt;: &lt;a href=&#34;https://www.lgdv.tf.fau.de/person/richard-marcus/&#34;&gt;Richard Marcus&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.lgdv.tf.fau.de/person/marc-stamminger/&#34;&gt;Marc Stamminger&lt;/a&gt;&lt;br/&gt; In this project, we trained Image translation model &lt;a href=&#34;https://github.com/NVlabs/SPADE/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPADE&lt;/a&gt; to generate LiDAR intensities in camera perspective conditioned on the RGB image from the camera. We utilize KITTI and KITTI-360 datasets for training the models.&lt;/p&gt;
+&lt;p&gt;We utilize &lt;a href=&#34;https://github.com/ispc-lab/LiDAR4D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LiDAR4D&lt;/a&gt;, a recent approach to LiDAR Novel View Synthesis, to generate dense LiDAR point cloud and use the projected intensities to train Image-to-Image translation models.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Exploring Shape vs Texture Bias in Visual Transformers</title>
