@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Synthesizing LiDAR from RGB Image using generated dense LiDAR data from LiDAR Novel View Synthesis</title>
+      <title>Dense LiDAR Intensity Image Synthesis from RGB Images with LiDAR Novel View Synthesis</title>
       <link>/project/lidar_nvs_pix2pix/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <guid>/project/lidar_nvs_pix2pix/</guid>

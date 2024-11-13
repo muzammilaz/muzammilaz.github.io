@@ -33,7 +33,7 @@
     </item>
     
     <item>
-      <title>Synthesizing LiDAR from RGB Image using generated dense LiDAR data from LiDAR Novel View Synthesis</title>
+      <title>Dense LiDAR Intensity Image Synthesis from RGB Images with LiDAR Novel View Synthesis</title>
       <link>/project/lidar_nvs_pix2pix/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <guid>/project/lidar_nvs_pix2pix/</guid>
@@ -235,7 +235,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-962713485&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-364259718&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -245,7 +245,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-962713485&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-364259718&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
